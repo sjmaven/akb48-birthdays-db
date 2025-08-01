@@ -1,0 +1,879 @@
+[
+  // --- AKB48 ---
+  {
+    "name": "Iwatate Saho",
+    "group": "AKB48",
+    "team": "",
+    "generation": "13th",
+    "birthdate": "1994-10-04",
+    "image_url": ""
+  },
+  {
+    "name": "Fukuoka Seina",
+    "group": "AKB48",
+    "team": "",
+    "generation": "15th",
+    "birthdate": "2000-08-01",
+    "image_url": ""
+  },
+  {
+    "name": "Mukaichi Mion",
+    "group": "AKB48",
+    "team": "",
+    "generation": "15th",
+    "birthdate": "1998-01-29",
+    "image_url": ""
+  },
+  {
+    "name": "Oguri Yui",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2001-12-26",
+    "image_url": ""
+  },
+  {
+    "name": "Kuranoo Narumi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2000-11-08",
+    "image_url": ""
+  },
+  {
+    "name": "Shitao Miu",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2001-04-03",
+    "image_url": ""
+  },
+  {
+    "name": "Takahashi Ayane",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "1997-12-30",
+    "image_url": ""
+  },
+  {
+    "name": "Nagano Serika",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2001-03-27",
+    "image_url": ""
+  },
+  {
+    "name": "Hashimoto Haruna",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2000-05-25",
+    "image_url": ""
+  },
+  {
+    "name": "Chiba Erii",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Draft 2nd",
+    "birthdate": "2003-10-27",
+    "image_url": ""
+  },
+  {
+    "name": "Suzuki Kurumi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "16th",
+    "birthdate": "2004-09-02",
+    "image_url": ""
+  },
+  {
+    "name": "Taguchi Manaka",
+    "group": "AKB48",
+    "team": "",
+    "generation": "16th",
+    "birthdate": "2003-12-12",
+    "image_url": ""
+  },
+  {
+    "name": "Nagatomo Ayami",
+    "group": "AKB48",
+    "team": "",
+    "generation": "16th",
+    "birthdate": "2000-11-02",	
+    "image_url": ""
+  },
+  {
+    "name": "Muto Orin",
+    "group": "AKB48",
+    "team": "",
+    "generation": "16th",
+    "birthdate": "2000-07-22",
+    "image_url": ""
+  },
+  {
+    "name": "Yamauchi Mizuki",
+    "group": "AKB48",
+    "team": "",
+    "generation": "16th",
+    "birthdate": "2001-09-20",
+    "image_url": ""
+  },
+  {
+    "name": "Omori Maho",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Draft 3rd",
+    "birthdate": "1999-12-05",
+    "image_url": ""
+  },
+  {
+    "name": "Tokunaga Remi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2006-10-01",
+    "image_url": ""
+  },
+  {
+    "name": "Sakagawa Hiyuka",
+    "group": "AKB48",
+    "team": "",
+    "generation": "Team 8",
+    "birthdate": "2006-10-07",
+    "image_url": ""
+  },
+  {
+    "name": "Ota Yuki",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2004-03-27",
+    "image_url": ""
+  },
+  {
+    "name": "Sato Airi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2004-06-24",
+    "image_url": ""
+  },
+  {
+    "name": "Hashimoto Eriko",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2006-04-16",
+    "image_url": ""
+  },
+  {
+    "name": "Hatakeyama Nozomi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2008-01-25",
+    "image_url": ""
+  },
+  {
+    "name": "Hirata Yuki",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2002-09-03",
+    "image_url": ""
+  },
+  {
+    "name": "Hotei Moka",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2004-12-01",
+    "image_url": ""
+  },
+  {
+    "name": "Masai Mayuu",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2005-03-01",
+    "image_url": ""
+  },
+  {
+    "name": "Mizushima Miyuu",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2003-11-12",
+    "image_url": ""
+  },
+  {
+    "name": "Yamazaki Sora",
+    "group": "AKB48",
+    "team": "",
+    "generation": "17th",
+    "birthdate": "2004-05-13",
+    "image_url": ""
+  },
+  {
+    "name": "Akiyama Yuna",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2005-12-12",
+    "image_url": ""
+  },
+  {
+    "name": "Arai Sae",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2005-10-05",
+    "image_url": ""
+  },
+  {
+    "name": "Kudo Kasumi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2005-06-15",
+    "image_url": ""
+  },
+  {
+    "name": "Kubo Hinano",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2006-02-02",
+    "image_url": ""
+  },
+  {
+    "name": "Sako Yumemi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2006-02-05",
+    "image_url": ""
+  },
+  {
+    "name": "Narita Kohina",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2004-03-03",
+    "image_url": ""
+  },
+  {
+    "name": "Yagi Azuki",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2005-03-22",
+    "image_url": ""
+  },
+  {
+    "name": "Yamaguchi Yui",
+    "group": "AKB48",
+    "team": "",
+    "generation": "18th",
+    "birthdate": "2009-03-08",
+    "image_url": ""
+  },
+  {
+    "name": "Ito Momoka",
+    "group": "AKB48",
+    "team": "",
+    "generation": "19th",
+    "birthdate": "2003-12-06",
+    "image_url": ""
+  },
+  {
+    "name": "Okumoto Kairi",
+    "group": "AKB48",
+    "team": "",
+    "generation": "19th",
+    "birthdate": "2007-01-27",
+    "image_url": ""
+  },
+  {
+    "name": "Kawamura Yui",
+    "group": "AKB48",
+    "team": "",
+    "generation": "19th",
+    "birthdate": "2006-06-18",
+    "image_url": ""
+  },
+  {
+    "name": "Shiratori Sari",
+    "group": "AKB48",
+    "team": "",
+    "generation": "19th",
+    "birthdate": "2010-09-10",
+    "image_url": ""
+  },
+  {
+    "name": "Hanada Mei",
+    "group": "AKB48",
+    "team": "",
+    "generation": "19th",
+    "birthdate": "2005-06-05",
+    "image_url": ""
+  },
+  {
+    "name": "Oga Saki",
+    "group": "AKB48",
+    "team": "",
+    "generation": "20th",
+    "birthdate": "2006-05-16",
+    "image_url": ""
+  },
+  {
+    "name": "Kondo Saki",
+    "group": "AKB48",
+    "team": "",
+    "generation": "20th",
+    "birthdate": "2012-02-23",
+    "image_url": ""
+  },
+  {
+    "name": "Maruyama Hinata",
+    "group": "AKB48",
+    "team": "",
+    "generation": "20th",
+    "birthdate": "2008-07-11",
+    "image_url": ""
+  },
+ 
+  },
+  // --- SKE48 ---
+  {
+    "name": "Ida Reona",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "6th",
+    "birthdate": "1998-12-03",
+    "image_url": ""
+  },
+  {
+    "name": "Kamata Natsuki",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "6th",
+    "birthdate": "1996-08-29",
+    "image_url": ""
+  },
+  {
+    "name": "Kumazaki Haruka",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "6th",
+    "birthdate": "1997-08-10",
+    "image_url": ""
+  },
+  {
+    "name": "Matsumoto Chikako",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "Draft 1st",
+    "birthdate": "1999-11-19",
+    "image_url": ""
+  },
+  {
+    "name": "Aikawa Honoka",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "7th",
+    "birthdate": "2003-10-22",
+    "image_url": ""
+  },
+  {
+    "name": "Asai Yuka",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "7th",
+    "birthdate": "2003-11-10",
+    "image_url": ""
+  },
+  {
+    "name": "Ota Ayaka",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "7th",
+    "birthdate": "2000-08-17",
+    "image_url": ""
+  },
+  {
+    "name": "Sugawara Maya",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "Draft 2nd",
+    "birthdate": "2000-01-10",
+    "image_url": ""
+  },
+  {
+    "name": "Ishiguro Yuzuki",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "8th",
+    "birthdate": "2003-10-11",
+    "image_url": ""
+  },
+  {
+    "name": "Inoue Ruka",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "8th",
+    "birthdate": "2001-06-12",
+    "image_url": ""
+  },
+  {
+    "name": "Kitagawa Yoshino",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "8th",
+    "birthdate": "2001-01-24",
+    "image_url": ""
+  },
+  {
+    "name": "Kurashima Ami",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "8th",
+    "birthdate": "2005-06-28",
+    "image_url": ""
+  },
+  {
+    "name": "Sakamoto Marin",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "8th",
+    "birthdate": "2002-02-02",
+    "image_url": ""
+  },
+  {
+    "name": "Sato Kaho",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "8th",
+    "birthdate": "1997-05-16",
+    "image_url": ""
+  },
+  {
+    "name": "Nakamura Izumi",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "8th",
+    "birthdate": "2000-03-15",
+    "image_url": ""
+  },
+  {
+    "name": "Nomura Miyo",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "8th",
+    "birthdate": "2003-02-01",
+    "image_url": ""
+  },
+  {
+    "name": "Nakano Airi",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "Draft 3rd",
+    "birthdate": "2001-03-24",
+    "image_url": ""
+  },
+  {
+    "name": "Aoumi Hinano",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "9th",
+    "birthdate": "2000-11-02",
+    "image_url": ""
+  },
+  {
+    "name": "Akahori Kimie",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "9th",
+    "birthdate": "2002-01-21",
+    "image_url": ""
+  },
+  {
+    "name": "Arano Himeka",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "9th",
+    "birthdate": "2002-01-09",
+    "image_url": ""
+  },
+  {
+    "name": "Ikeda Kaede",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "9th",
+    "birthdate": "2000-07-05",
+    "image_url": ""
+  },
+  {
+    "name": "Iriuchijima Sayaka",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "9th",
+    "birthdate": "1999-05-13",
+    "image_url": ""
+  },
+  {
+    "name": "Suzuki Ena",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "9th",
+    "birthdate": "2004-01-09",
+    "image_url": ""
+  },
+  {
+    "name": "Suzuki Kokona",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "9th",
+    "birthdate": "2003-12-28",
+    "image_url": ""
+  },
+  {
+    "name": "Nakasaka Miyu",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "9th",
+    "birthdate": "2005-06-11",
+    "image_url": ""
+  },
+  {
+    "name": "Fujimoto Fuyuka",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "9th",
+    "birthdate": "1998-04-03",
+    "image_url": ""
+  },
+  {
+    "name": "Aoki Rika",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "10th",
+    "birthdate": "1999-09-02",
+    "image_url": ""
+  },
+  {
+    "name": "Ito Miki",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "10th",
+    "birthdate": "2002-08-11",
+    "image_url": ""
+  },
+  {
+    "name": "Nishii Mio",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "10th",
+    "birthdate": "2001-03-16",
+    "image_url": ""
+  },
+  {
+    "name": "Omura Anzu",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "11th",
+    "birthdate": "2005-09-20",
+    "image_url": ""
+  },
+  {
+    "name": "Shinohara Kyoka",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "11th",
+    "birthdate": "2004-06-03",
+    "image_url": ""
+  },
+  {
+    "name": "Sugimoto Riina",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "11th",
+    "birthdate": "2008-09-20",
+    "image_url": ""
+  },
+  {
+    "name": "Hara Yune",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "11th",
+    "birthdate": "2001-11-23",
+    "image_url": ""
+  },
+  {
+    "name": "Morimoto Kurumi",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "11th",
+    "birthdate": "2007-09-03",
+    "image_url": ""
+  },
+  {
+    "name": "Yamamura Sakura",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "11th",
+    "birthdate": "2006-09-20",
+    "image_url": ""
+  },
+  {
+    "name": "Ito Kokomi",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "12th",
+    "birthdate": "2008-12-08",
+    "image_url": ""
+  },
+  {
+    "name": "Okuno Kokoha",
+    "group": "SKE48",
+    "team": "Team KII",
+    "generation": "12th",
+    "birthdate": "2005-02-20",
+    "image_url": ""
+  },
+  {
+    "name": "Kawamura Yua",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "12th",
+    "birthdate": "2006-01-31",
+    "image_url": ""
+  },
+  {
+    "name": "Kuramoto Hana",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "12th",
+    "birthdate": "2004-09-13",
+    "image_url": ""
+  },
+  {
+    "name": "Takamura Saya",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "12th",
+    "birthdate": "2004-07-04",
+    "image_url": ""
+  },
+  {
+    "name": "Hasegawa Miyabi",
+    "group": "SKE48",
+    "team": "Team E",
+    "generation": "12th",
+    "birthdate": "2010-11-20",
+    "image_url": ""
+  },
+  {
+    "name": "Matsukawa Miyu",
+    "group": "SKE48",
+    "team": "Team S",
+    "generation": "12th",
+    "birthdate": "2008-04-15",
+    "image_url": ""
+  },
+  {
+    "name": "Minamisawa Coco",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "12th",
+    "birthdate": "2007-10-26",
+    "image_url": ""
+  },
+  {
+    "name": "Ota Manae",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2007-12-16",
+    "image_url": ""
+  },
+  {
+    "name": "Kawamura Syoko",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2007-09-15",
+    "image_url": ""
+  },
+  {
+    "name": "Kubota Rei",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2009-11-23",
+    "image_url": ""
+  },
+  {
+    "name": "Kumoi Sana",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2005-11-27",
+    "image_url": ""
+  },
+  {
+    "name": "Kuwahara Tsubaki",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2006-02-25",
+    "image_url": ""
+  },
+  {
+    "name": "Kondo Mikoto",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2003-11-25",
+    "image_url": ""
+  },
+  {
+    "name": "Sakurai Arisa",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2003-11-07",
+    "image_url": ""
+  },
+  {
+    "name": "Sasaki Nozomi",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2010-10-19",
+    "image_url": ""
+  },
+  {
+    "name": "Tachibana Ayame",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2009-06-24",
+    "image_url": ""
+  },
+  {
+    "name": "Tamura Mayu",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2007-09-18",
+    "image_url": ""
+  },
+  {
+    "name": "Hijiri Haruka",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2007-02-04",
+    "image_url": ""
+  },
+  {
+    "name": "Fukuhara Koharu",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2006-01-07",
+    "image_url": ""
+  },
+  {
+    "name": "Miyamoto Rinka",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2007-09-10",
+    "image_url": ""
+  },
+  {
+    "name": "Yokoi Shiho",
+    "group": "SKE48",
+    "team": "Kenkyuusei",
+    "generation": "13th",
+    "birthdate": "2011-11-08",
+    "image_url": ""
+  },
+  
+  // --- NMB48 ---
+  {
+    "name": "Shibuya Nagisa",
+    "group": "NMB48",
+    "team": "Team N",
+    "generation": "4th",
+    "birthdate": "1996-08-25",
+    "image_url": "https://example.com/images/shibuya_nagisa.jpg"
+  },
+  {
+    "name": "Lee Siyeon",
+    "group": "NMB48",
+    "team": "Team M",
+    "generation": "8th",
+    "birthdate": "2006-08-05",
+    "image_url": "https://example.com/images/lee_siyeon.jpg"
+  },
+  
+
+  // --- HKT48 ---
+  {
+    "name": "Tanaka Miku",
+    "group": "HKT48",
+    "team": "Team H",
+    "generation": "3rd",
+    "birthdate": "2001-09-12",
+    "image_url": "https://example.com/images/tanaka_miku.jpg"
+  },
+  {
+    "name": "Unjo Hirona",
+    "group": "HKT48",
+    "team": "Team KIV",
+    "generation": "4th",
+    "birthdate": "1998-09-20",
+    "image_url": "https://example.com/images/unjo_hirona.jpg"
+  },
+
+  // --- NGT48 ---
+  {
+    "name": "Furutate Aoi",
+    "group": "NGT48",
+    "team": "Team NIII",
+    "generation": "2nd",
+    "birthdate": "2000-12-26",
+    "image_url": "https://example.com/images/furutate_aoi.jpg"
+  },
+  {
+    "name": "Homma Hinata",
+    "group": "NGT48",
+    "team": "Team NIII",
+    "generation": "1st",
+    "birthdate": "1999-01-10",
+    "image_url": "https://example.com/images/homma_hinata.jpg"
+  },
+
+  // --- STU48 ---
+  {
+    "name": "Takao Sayaka",
+    "group": "STU48",
+    "team": "STU",
+    "generation": "1st",
+    "birthdate": "1998-10-20",
+    "image_url": "https://example.com/images/takao_sayaka.jpg"
+  },
+  {
+    "name": "Yoshida Sara",
+    "group": "STU48",
+    "team": "STU",
+    "generation": "2nd",
+    "birthdate": "2006-01-04",
+    "image_url": "https://example.com/images/yoshida_sara.jpg"
+  }
+]
